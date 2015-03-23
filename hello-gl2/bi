@@ -1,0 +1,1 @@
+ndk-build && ant debug && adb install -r ./bin/Hello-debug.apk
